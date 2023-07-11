@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696861698586",
+    "firebase_url": "https://toodlejump.firebaseio.com",
+    "project_id": "toodlejump",
+    "storage_bucket": "toodlejump.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696861698586:android:64b24b24c2da8312",
+        "android_client_info": {
+          "package_name": "com.evgeni.toodlejump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696861698586-14akikelko2roskhfa68c80krdht3u1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evgeni.toodlejump",
+            "certificate_hash": "9836e29fe6d4fe02a00cd9cef69147cd258d0079"
+          }
+        },
+        {
+          "client_id": "696861698586-mie66gvetiugkagj3hnmniu49gurplf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRcXV8VZlTqoCt8sRbrkXyjzp0MuI5N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696861698586-mie66gvetiugkagj3hnmniu49gurplf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
